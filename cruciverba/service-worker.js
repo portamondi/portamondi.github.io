@@ -1,5 +1,5 @@
 const PREFIX='cruciverba-windows:'+self.registration.scope+':';
-const CACHE=PREFIX+'add875e1dbe21bc6';
+const CACHE=PREFIX+'d73a4f7c822fc69c';
 const ASSETS=['./','./index.html','./manifest.webmanifest','./icons/icon-192.png','./icons/icon-512.png'];
 const URLS=new Set(ASSETS.map(asset=>new URL(asset,self.registration.scope).href));
 // Un aggiornamento entra in funzione alla chiusura di tutte le finestre del gioco.

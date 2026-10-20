@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "Cruciverba Classiche",
+  "short_name": "Cruciverba",
+  "description": "150 cruciverba gratuiti in italiano, su tre livelli di difficoltà. Partite salvate sul dispositivo e gioco offline dopo il primo caricamento.",
+  "lang": "it-IT",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "categories": [
+    "games",
+    "puzzle"
+  ],
+  "prefer_related_applications": false,
+  "background_color": "#f3f1e9",
+  "theme_color": "#f3f1e9",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
